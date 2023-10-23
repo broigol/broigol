@@ -1,8 +1,8 @@
+## Sobre mim...
 - Analista de dados a cerca de 4 anos;
 - Formado em engenharia mecânica e atualmente cursando ciência de dados;
 - Me aprofundando em 'Engenharia de dados', com foco em cloud;
 - Repositório em construção. 🚧
-
 ---
 ## Contato 📫
 <div>
